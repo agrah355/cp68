@@ -60,3 +60,6 @@ input
 .article:hover{
     color:fuchsia;
 }
+img{
+    height: 250px;
+}
